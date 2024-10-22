@@ -12,14 +12,14 @@ export const Projects = [
             title: 'Auth and CRUD Application Using Firebase',
             desc: 'A secure Auth and CRUD application built with next.js and Firebase,allowing users to register, log in, and manage their data effortlessly.',
             img: '/project1.jpg',
-            link: 'https://github.com/'
+            link: 'https://github.com/Dharun0021/employ-mangement'
         },
         {
             id: 2,
             title: 'To-Do List Application',
             desc: 'A simple and intuitive To-Do List application built with React, allowing users to add, delete, and manage tasks efficiently.',
             img: '/project2.jpg', 
-            link: 'https://github.com/' 
+            link: 'https://github.com/Dharun0021/TO-DO-LIST' 
         },
         {
             id: 3,
@@ -33,7 +33,7 @@ export const Projects = [
             title: 'Voice Recognition Application',
             desc: 'A Voice Recognition application that allows users to perform actions using voice commands, built with React and the Web Speech API.',
             img: '/project4.jpg', 
-            link: 'https://github.com/' 
+            link: 'https://github.com/Dharun0021/voice-recognition'
         }
 ];
 
